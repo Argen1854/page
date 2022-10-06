@@ -6,8 +6,7 @@ print(day.day)
 # date = datetime.now()
 # for i in range(1, calendar.monthrange(date.year, date.month)[1]+1):
 #     if int(day_off) == datetime.strptime(f'{date.year}-{date.month}-{i}', "%Y-%m-%d").weekday():
-#         print(datetime.strptime(f'{date.year}-{date.month}-{i}', "%Y-%m-%d").weekday())
-
+#         print(datetime.strptime(f'{date.year}-{date.month}-{i}', "%Y-%m-%d").weekday())asdsadasdsadsaasd
 
 
 # print(date)
